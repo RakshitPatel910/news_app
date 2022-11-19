@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": null,
+            "title": "₹500 फीस, डिटेंशन कैंप में क्‍लासेज... 1951 में IIT से शुरू हुई वो क्रांति जिसने आजाद भारत को विकास के ट्रैक पर दौड़ाया",
+            "description": "स्‍वतंत्रता के बाद भारत की विकास यात्रा में IITs का अहम योगदान हैं। आज उनसे इंजिनियरिंग ग्रैजुएट्स से ज्‍यादा मास्‍टर्स और डॉक्‍टरेट्स निकलते हैं। 1950 के दशक में IITs की शुरुआत से लेकर उनके अब तक के सफर पर एक नजर।",
+            "url": "https://navbharattimes.indiatimes.com/india/how-iit-led-the-rise-of-india-as-a-knowledge-economy-over-past-70-years/articleshow/86334967.cms",
+            "urlToImage": "https://navbharattimes.indiatimes.com/photo/msid-86334967,imgsize-1460778/pic.jpg",
+            "publishedAt": "2021-09-19T04:21:32Z",
+            "content": "(IIT) 1951 - IIT , 1946 , IIT , ' ' ' 1960 , IITs IIT 1964 \r\nIIT \r\n... IITs - PhD , USSR 1958 IIT IIT IIT IITs 1959 1961 IIT IITs 23 IITs (10 ) (2015-16 ) IITs \r\n IIT \r\n IITs IITs , IITs , 2006 3,989… [+215 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Business Today"
+            },
+            "author": "Reuters",
+            "title": "'Quad' nations to agree on secure microchip supply chains",
+            "description": "US President Joe Biden will host a first in-person summit of leaders of the &quot;Quad&quot; countries, which have sought to boost co-operation to push back against China's growing assertiveness",
+            "url": "https://www.businesstoday.in/latest/world/story/quad-nations-to-agree-on-secure-microchip-supply-chains-307046-2021-09-19",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202109/microship-sixteen_nine.jpg",
+            "publishedAt": "2021-09-19T06:54:51Z",
+            "content": "Leaders of the United States, Japan, India and Australia will agree to take steps to build secure semiconductor supply chains when they meet in Washington next week, the Nikkei business daily said on… [+1298 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Business Today"
+            },
+            "author": "PTI",
+            "title": "PM will decide on continuing infra investments in Afghanistan, says Nitin Gadkari",
+            "description": "Gadkari, who is helming the Road Transport and Highways Ministry, also said that while many infrastructure projects in that country have been completed by India, some are yet to be completed",
+            "url": "https://www.businesstoday.in/latest/economy/story/pm-will-decide-on-continuing-infra-investments-in-afghanistan-says-nitin-gadkari-307047-2021-09-19",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202109/2_1200_1_0-sixteen_nine.jpg",
+            "publishedAt": "2021-09-19T06:54:51Z",
+            "content": "With Afghanistan coming under the control of the Taliban, Union minister Nitin Gadkari on Sunday said a final decision on continuing infrastructure investments in the war-torn country will be taken b… [+1565 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Business Today"
+            },
+            "author": "Reuters",
+            "title": "Submarine deal row: Australia says it was 'upfront' with France",
+            "description": "Australia ditched the 2016 deal with France's Naval Group to build a fleet of conventional submarines, announcing on Thursday a plan to build at least eight nuclear-powered ones with US and British technology in a trilateral security partnership",
+            "url": "https://www.businesstoday.in/latest/world/story/submarine-deal-row-australia-says-it-was-upfront-with-france-307043-2021-09-19",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202109/scott1200-sixteen_nine.jpg",
+            "publishedAt": "2021-09-19T05:35:35Z",
+            "content": "Australia was \"upfront, open and honest\" with France about its concerns over a deal for French submarines, its defence minister said on Sunday, as a new deal with the United States and Britain contin… [+2110 chars]"
+        }
+    ]
+}
